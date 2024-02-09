@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-x3tmaa&do%d2#az(ne&zp-j&j%!na%ydsh1&3q^wg*chi(m0j(
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS=['https://swapnosiri.onrender.com','https://*.127.0.0.1','http://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS=['https://swapnosiri.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
